@@ -1,0 +1,25 @@
+/* This is the CSS code for Intro.html */
+.h{
+    color: brown;
+}
+
+/* This is the CSS code for AnswerMathsArea.html */
+#central {
+    background-color: aqua;
+}
+
+/* This is the CSS code for MathsArea.html */
+.design {
+    background-color: black;
+    color: white;
+}
+button {
+    border: 10px solid white;
+    background-color: black;
+    color: white;
+}
+
+/* This is the CSS code for Rubiks Cube.html */
+body {
+    background-color: greenyellow;
+}
