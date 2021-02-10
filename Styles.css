@@ -24,7 +24,7 @@ button {
     background-color: greenyellow;
 }
 
-/* This is the CSS code for Trigonometry.html*/
+/* This is the CSS code for Trigonometry.html and PractiseTrigonometry.html*/
 #font {
     font-family: cursive;
     background-color: powderblue;
@@ -40,4 +40,7 @@ tr , td{
 }
 img{
     border-radius: 1em;
+}
+h1{
+    color: #fb5e56;
 }
