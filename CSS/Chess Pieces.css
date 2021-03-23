@@ -1,0 +1,9 @@
+tr, td{
+    border: 0.2em solid black;
+    border-radius: 1em;
+}
+
+body{
+    font-family: cursive;
+    background-color: #83ac46;
+}
