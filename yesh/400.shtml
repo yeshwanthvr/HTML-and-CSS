@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Yesh</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <header>
+        <h1 class="logo">Yesh</h1>
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+    </header>
+    <br><br><br><br><!--#set var="code" value="400" -->
+<!--#set var="reason" value="Bad Request" -->
+<!--#set var="msg" value="Your browser sent a request that this server could not understand:" -->
+<!--#include virtual="cp_errordocument.shtml" -->
+</body>
+</html>
