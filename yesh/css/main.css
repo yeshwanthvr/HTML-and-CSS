@@ -138,4 +138,5 @@ nav a:hover {
 
 .container {
     padding-top: 200px;
+    box-sizing: border-box;
 }
