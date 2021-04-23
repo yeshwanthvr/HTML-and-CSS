@@ -42,7 +42,6 @@ p {
 
 @media (max-width:750px) {
     img {
-        width: 400px;
-        height: 251px;
+        width: 330px;
     }
 }
