@@ -233,3 +233,25 @@ nav a:hover {
         height: 20px;
     }
 }
+
+/* trigonometry and practisetrigonometry CSS code**/
+
+#font {
+    font-family: monospace;
+    background-color: powderblue;
+}
+
+tr , td{
+    border: 0.2em solid black;
+    border-radius: 1em;
+}
+
+.test{
+    border: 8px solid black;
+    background-color: white;
+    color: black;
+}
+
+img{
+    border-radius: 1em;
+}
