@@ -268,7 +268,7 @@ div {
     align-self: center;
 }
 
-@media (max-width: 950px)
+@media (max-width: 650px)
 {
     div {
         display: flex;
