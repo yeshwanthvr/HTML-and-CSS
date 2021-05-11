@@ -171,7 +171,7 @@ nav a:hover {
 }
 
 .p {
-    font-size: 25px;
+    font-size: 23px;
     font-family:monospace;
 }
 
@@ -255,7 +255,7 @@ img{
     border-radius: 0.5em;
 }
 
-div {
+.abc {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -264,7 +264,6 @@ div {
     align-content: space-around;
     border: 3px solid black;
     border-radius: 8px;
-    padding: 5px;
     align-self: center;
 }
 
@@ -279,7 +278,7 @@ div {
         align-content: space-around;
         align-self: center;
         text-align: center;
-        padding: 15px;
+        padding: 5px;
     }
     img {
         width: 250px;
