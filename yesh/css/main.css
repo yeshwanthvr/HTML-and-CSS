@@ -80,7 +80,11 @@ nav a:hover {
     display: block;
 }
 
-
+.link
+{
+    text-decoration: none;
+    color: #0000ed;
+}
 
 @media screen and (min-width: 950px) {
     .nav-toggle-label {
